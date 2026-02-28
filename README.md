@@ -1,8 +1,13 @@
 # Reddit Customer Insights Tool
 
-96% of B2B website visitors leave without converting. They browse your pricing page, read case studies, and disappear forever. What if you could understand what these buyers are actually thinking?
+Your ICP is already telling you what they want — on Reddit. They're discussing pain 
+points, evaluating competitors, and sharing unfiltered opinions in the exact subreddits 
+where your buyers hang out.
 
-Reddit is where your potential customers discuss their real pain points, evaluate tools like yours, and share unfiltered opinions about competitors. This tool scrapes those conversations and uses Claude AI to extract actionable insights for B2B SaaS companies in the website visitor identification space.
+This tool scrapes those conversations and uses Claude AI to extract structured, 
+actionable insights — buying signals, pain point clusters, content ideas, and 
+competitor sentiment — for any B2B vertical. Point it at different subreddits and 
+search queries to research any market.
 
 ## What It Does
 
